@@ -1,6 +1,6 @@
 # WARNING: If this file is deleted, Strange Eons will no longer
 # see this as a project/task folder!
-selected-members = :Development/Locations/Ground
+selected-members = :Development/Locations/Ground/Power Control Room.eon
 first-row = 0
 open-folders = :Development:Development/Agenda \
     Deck:Development/Locations:Development/Locations/Ground:Development/Research \
