@@ -1,10 +1,9 @@
 # WARNING: If this file is deleted, Strange Eons will no longer
 # see this as a project/task folder!
-selected-members = :Development/Set Aside/Items/Emergency Toolkit.eon
+selected-members = :Development/Agenda Deck/Whispers Agenda1A.eon
 first-row = 0
-open-folders = :Development:Development/Locations:Development/Locations/High \
-    Security:Development/Locations/Low Security:Development/Set \
-    Aside:Development/Set Aside/Items
+open-folders = :Development:Development/Agenda \
+    Deck:Development/Locations:Development/Locations/Low Security:Development/Set Aside
 notes = 
 res-id = hamzah
 type = PROJECT
