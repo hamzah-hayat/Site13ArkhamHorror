@@ -1,10 +1,9 @@
 # WARNING: If this file is deleted, Strange Eons will no longer
 # see this as a project/task folder!
-selected-members = :Development/Encounter Deck/Treachery/Whispers From Within.eon
+selected-members = :Development/Locations/Medium Security/Armoury.eon
 first-row = 0
-open-folders = :Development:Development/Act Deck:Development/Agenda \
-    Deck:Development/Encounter Deck:Development/Encounter \
-    Deck/Enemies:Development/Encounter Deck/Treachery
+open-folders = :Development:Development/Locations:Development/Locations/Medium \
+    Security
 notes = 
 res-id = hamzah
 type = PROJECT
