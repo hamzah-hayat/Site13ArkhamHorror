@@ -1,0 +1,76 @@
+Automatic lockdown
+Applies to Storage locations
+Is undone by research locations
+
+Possesed Scientist 
+Add fullstops
+
+Collatarel damage
+Add to victory display
+
+Lcoked terminal
+not office, research location
+
+
+Spider Worker
+Make it an Aura that gives +1 health to spiders
+
+Whispering Evils
+Peril
+
+
+Heading down
+inhuman
+
+
+Hide card names when mouse over
+
+
+Research lab
+fill upto <per> clues
+
+Make sure cards that do not activate 
+
+
+Secure Storage
+edit
+
+
+Breaking containment cannot be cancelled
+
+Agenda 2a edit 
+
+
+Spider worker
+Make it an entity
+
+
+High Security elevator is powered
+
+
+Tags things on the other side
+
+
+
+Emergency toolkit
+
+
+The heart chamber reword card
+After you enter this location test <wil> (3)
+
+
+Post game discussion:
+
+Not as combat focused
+
+make it easier for entities to spawn
+
+suggestion: enemies that spawn more of themselves? 
+
+Spawn at an empty location Hunter enemy
+
+Retaliate on odd amount of doom on puppetbox
+
+General increase enemy health, fight, damage and horror
+
+make runestone 2 damage 2 horror eg
