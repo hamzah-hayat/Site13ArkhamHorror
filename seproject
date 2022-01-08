@@ -1,9 +1,8 @@
 # WARNING: If this file is deleted, Strange Eons will no longer
 # see this as a project/task folder!
-selected-members = :Development/Locations/Medium Security/High Security Elevator.eon
+selected-members = :Development
 first-row = 0
-open-folders = :Development:Development/Locations:Development/Locations/Medium \
-    Security
+open-folders = 
 notes = 
 res-id = hamzah
 type = PROJECT
