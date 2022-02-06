@@ -1,48 +1,6 @@
-Automatic lockdown
-Applies to Storage locations
-Is undone by research locations
-
-Possesed Scientist 
-Add fullstops
-
-Collatarel damage
-Add to victory display
-
-Lcoked terminal
-not office, research location
-
-
-Spider Worker
-Make it an Aura that gives +1 health to spiders
-
-Whispering Evils
-Peril
-
-
-Heading down
-inhuman
-
-
 Hide card names when mouse over
 
-
-Research lab
-fill upto <per> clues
-
-Make sure cards that do not activate 
-
-
-Secure Storage
-edit
-
-
-Breaking containment cannot be cancelled
-
 Agenda 2a edit 
-
-
-Spider worker
-Make it an entity
 
 
 High Security elevator is powered

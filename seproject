@@ -1,8 +1,8 @@
 # WARNING: If this file is deleted, Strange Eons will no longer
 # see this as a project/task folder!
-selected-members = :Development/Research Deck
+selected-members = :Development/Agenda Deck
 first-row = 0
-open-folders = :Development:Development/Act Deck
+open-folders = :Development
 notes = 
 res-id = hamzah
 type = PROJECT
