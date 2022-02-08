@@ -23,6 +23,8 @@ LOCATIONS_DATA_JSON = [[
   "Warehouse": {"type": "perPlayer", "value": 1, "clueSide": "front"},
   "Entrance to Medium Security": {"type": "perPlayer", "value": 1, "clueSide": "front"},
   "Power Generator": {"type": "perPlayer", "value": 1, "clueSide": "front"},
+  "The Combiner": {"type": "perPlayer", "value": 1, "clueSide": "front"},
+  "Entity Containment Cell": {"type": "perPlayer", "value": 1, "clueSide": "front"},
   "Security Checkpoint": {"type": "perPlayer", "value": 1, "clueSide": "front"},
   "Secure Storage": {"type": "perPlayer", "value": 2, "clueSide": "front"},
   "The Vending Machine": {"type": "perPlayer", "value": 1, "clueSide": "front"},
