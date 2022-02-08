@@ -1,27 +1,6 @@
 Hide card names when mouse over
 
-Agenda 2a edit 
-
-
-High Security elevator is powered
-
-
-Tags things on the other side
-
-
-
-Emergency toolkit
-
-
-The heart chamber reword card
-After you enter this location test <wil> (3)
-
-
 Post game discussion:
-
-Not as combat focused
-
-make it easier for entities to spawn
 
 suggestion: enemies that spawn more of themselves? 
 
@@ -32,3 +11,57 @@ Retaliate on odd amount of doom on puppetbox
 General increase enemy health, fight, damage and horror
 
 make runestone 2 damage 2 horror eg
+
+
+
+
+
+
+
+
+
+
+
+miltary personnel act 1a
+
+Runestone should be at least evens after research (skill test)
+
+the combiner "play area"
+sum of the cost of the discarded cards
+colon for cost
+
+Guard -> nearest storage location
+
+
+Add "monster" to entities
+
+
+patrol location with a spider enemy
+
+Act 2a, no Elite enemies
+Act 3, no Elite enemies
+
+
+the vending machine research, do all three actions for 3 resources
+
+research archive add Research
+
+combine effects heart chamber 4 will power check
+
+paralysing venom, at the end of your next turn
+
+change power generator on last floor
+
+
+stalker reduce evasion until end of round
+
+
+
+
+
+you cannot attack this enemy stalker etc 
+
+make another way to get items, make items more impactful and generic
+
+
+remove breaking containment, just have one entity on top floor, two medium floor, 1 bottom floor
